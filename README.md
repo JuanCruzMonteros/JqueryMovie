@@ -1,4 +1,4 @@
-# Título del Proyecto
+# JQuery Movie
 
 _Aplicación que consume Api de peliculas a travez de Jquery_
 
